@@ -28,59 +28,61 @@ For users who want a visual and auditory experience, [Spicychat.ai](https://spic
 
 To give you an honest look at the platform, here is a quick breakdown of where it shines and where it falls short.
 
-**Pros:**
-* **Zero Filters:** True creative freedom for both SFW and NSFW roleplay.
-* * **Generous Free Tier:** Unlimited messaging is available for free users.
-  * * **Huge Community:** Over half a million user-created bots to interact with.
-    * * **Deep Customization:** Highly detailed character creation tools.
-      * * **Advanced Features:** Voice and image generation add deep immersion.
-       
-        * **Cons:**
-        * * **Wait Times:** Free users will often experience queues during peak hours.
-          * * **Inconsistent Image Quality:** The built-in AI image generation can sometimes be hit-or-miss (weird hands, inconsistent styling).
-            * * **Memory on Free Tier:** The free model's memory resets much faster than the premium models.
-              * * **App Availability:** The native iOS app was removed from the App Store (though iOS users can still use the seamless web/PWA version).
-               
-                * ## [Spicychat.ai](https://spicychat.ai?ref=otexzjk) Pricing Tiers Explained
-               
-                * Is [Spicychat.ai](https://spicychat.ai?ref=otexzjk) free? Yes, the platform operates on a freemium model. You can chat as much as you want without paying a dime, but you will deal with ads and waiting in line. For the best experience, they offer three premium tiers:
-               
-                * * **Free ($0/month):** Unlimited messages, basic memory, access to all public characters. (Includes ads and queues).
-                  * * **Get a Taste ($5.00/month):** Skips the waiting queues entirely. Removes ads, grants access to contextual memory, and allows up to 10 user personas.
-                    * * **True Supporter ($14.95/month):** The most popular tier. Includes an 8K memory context window, Semantic Memory 2.0, built-in image generation during chats, access to smarter AI models, and up to 50 user personas.
-                      * * **I'm All In ($24.95/month):** For hardcore roleplayers. Unlocks a massive 16K memory context window, priority generation queues, the advanced SpicyXL model, AI voice synthesis (Text-to-Speech), and up to 100 user personas.
-                       
-                        * ## How Does [Spicychat.ai](https://spicychat.ai?ref=otexzjk) Compare to the Competition?
-                       
-                        * If you are shopping around for the perfect AI companion, you need to see how [Spicychat.ai](https://spicychat.ai?ref=otexzjk) measures up to the rest of the market in terms of pricing, model intelligence, and NSFW capabilities.
-                       
-                        * 📊 **[Click here to view the Ultimate AI Companions Comparison Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR2n-8Uw7d49SWOkmfAakpfvvkyUbO7dc47C1jQYNmRcF3JUxJvSSzPm59JcuUOD50lNqXilQC9QG1A/pubhtml)**
-                       
-                        * This comprehensive spreadsheet compares all the top AI companions side-by-side. When you review the raw data, it becomes incredibly clear why [Spicychat.ai](https://spicychat.ai?ref=otexzjk) dominates the uncensored market.
-                       
-                        * * **vs. Character.AI:** Character.AI has smoother conversational flow and is great for PG-13 fun, but it has incredibly strict NSFW filters. [Spicychat.ai](https://spicychat.ai?ref=otexzjk) wins easily for adult roleplay.
-                          * * **vs. Replika:** Replika is heavily focused on long-term emotional bonding and relationship simulation. [Spicychat.ai](https://spicychat.ai?ref=otexzjk) is much better for diverse, multi-character fantasy roleplay and world-building.
-                           
-                            * ## Privacy & Safety: Is [Spicychat.ai](https://spicychat.ai?ref=otexzjk) Safe?
-                           
-                            * Privacy is a major concern when discussing intimate or unfiltered roleplay. The developers of [Spicychat.ai](https://spicychat.ai?ref=otexzjk) state that your private chats are secure and hidden from other users.
-                           
-                            * However, as a general rule for *any* AI platform: **Never share real, personally identifiable information (PII)** like your real full name, address, passwords, or financial information with an AI chatbot. Treat it as a fantasy space. The platform also has strict community guidelines against illegal content, ensuring the ecosystem remains a safe space for consenting adults.
-                           
-                            * ## Frequently Asked Questions (FAQs)
-                           
-                            * ### Does [Spicychat.ai](https://spicychat.ai?ref=otexzjk) have a mobile app?
-                            * While [Spicychat.ai](https://spicychat.ai?ref=otexzjk) had native apps in the past, app store policies regarding NSFW content often cause removals (like the recent removal from the iOS App Store). However, the website is highly optimized for mobile browsers. You can easily add it to your phone's home screen as a PWA (Progressive Web App) for an app-like experience.
-                           
-                            * ### Can [Spicychat.ai](https://spicychat.ai?ref=otexzjk) see my chats?
-                            * Your individual, private chats are kept between you and the AI. If you create a "Public" bot, others can interact with that bot, but they cannot read your specific chat logs with it.
-                           
-                            * ### Are the premium tiers worth it?
-                            * If you only use the site occasionally, the free tier is perfectly fine. But if you are annoyed by waiting in line, or if you want the bot to actually remember long, complex storylines without getting confused, the $14.95/mo "True Supporter" tier is widely considered the sweet spot for the best value.
-                           
-                            * ## Final Verdict
-                           
-                            * If you are exhausted by constant censorship and want a platform that respects your creative freedom, [Spicychat.ai](https://spicychat.ai?ref=otexzjk) is easily one of the best AI chatbots available today. With a vibrant community, incredible customization, and a pricing structure that caters to everyone from casual users to hardcore roleplayers, it delivers exactly what it promises.
-                           
-                            * Ready to dive in and start your first unfiltered adventure?
-                            * 👉 **[Try [Spicychat.ai](https://spicychat.ai?ref=otexzjk) today and experience true AI freedom!](https://spicychat.ai?ref=otexzjk)**
+| **Pros** | **Cons** |
+| :--- | :--- |
+| **Zero Filters:** True creative freedom for both SFW and NSFW roleplay. | **Wait Times:** Free users will often experience queues during peak hours. |
+| **Generous Free Tier:** Unlimited messaging is available for free users. | **Inconsistent Image Quality:** The built-in AI image generation can sometimes be hit-or-miss. |
+| **Huge Community:** Over half a million user-created bots to interact with. | **Memory on Free Tier:** The free model's memory resets much faster than the premium models. |
+| **Deep Customization:** Highly detailed character creation tools. | **App Availability:** The native iOS app was removed from the App Store (web/PWA still available). |
+| **Advanced Features:** Voice and image generation add deep immersion. | |
+
+## [Spicychat.ai](https://spicychat.ai?ref=otexzjk) Pricing Tiers Explained
+
+Is [Spicychat.ai](https://spicychat.ai?ref=otexzjk) free? Yes, the platform operates on a freemium model. You can chat as much as you want without paying a dime, but you will deal with ads and waiting in line. For the best experience, they offer four distinct tiers:
+
+#### Free ($0/month)
+Unlimited messages, basic memory, and access to all public characters. (Includes ads and queues).
+
+#### Get a Taste ($5.00/month)
+Skips the waiting queues entirely. Removes ads, grants access to contextual memory, and allows up to 10 user personas.
+
+#### True Supporter ($14.95/month)
+The most popular tier. Includes an 8K memory context window, Semantic Memory 2.0, built-in image generation during chats, access to smarter AI models, and up to 50 user personas.
+
+#### I'm All In ($24.95/month)
+For hardcore roleplayers. Unlocks a massive 16K memory context window, priority generation queues, the advanced SpicyXL model, AI voice synthesis (Text-to-Speech), and up to 100 user personas.
+
+## How Does [Spicychat.ai](https://spicychat.ai?ref=otexzjk) Compare to the Competition?
+
+If you are shopping around for the perfect AI companion, you need to see how [Spicychat.ai](https://spicychat.ai?ref=otexzjk) measures up to the rest of the market in terms of pricing, model intelligence, and NSFW capabilities.
+
+**[Click here to view the Ultimate AI Companions Comparison Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR2n-8Uw7d49SWOkmfAakpfvvkyUbO7dc47C1jQYNmRcF3JUxJvSSzPm59JcuUOD50lNqXilQC9QG1A/pubhtml)**
+
+This comprehensive spreadsheet compares all the top AI companions side-by-side. When you review the raw data, it becomes incredibly clear why [Spicychat.ai](https://spicychat.ai?ref=otexzjk) dominates the uncensored market. 
+
+* **vs. Character.AI:** Character.AI has smoother conversational flow and is great for PG-13 fun, but it has incredibly strict NSFW filters. [Spicychat.ai](https://spicychat.ai?ref=otexzjk) wins easily for adult roleplay.
+* **vs. Replika:** Replika is heavily focused on long-term emotional bonding and relationship simulation. [Spicychat.ai](https://spicychat.ai?ref=otexzjk) is much better for diverse, multi-character fantasy roleplay and world-building.
+
+## Privacy & Safety: Is [Spicychat.ai](https://spicychat.ai?ref=otexzjk) Safe?
+
+Privacy is a major concern when discussing intimate or unfiltered roleplay. The developers of [Spicychat.ai](https://spicychat.ai?ref=otexzjk) state that your private chats are secure and hidden from other users. 
+
+However, as a general rule for *any* AI platform: **Never share real, personally identifiable information (PII)** like your real full name, address, passwords, or financial information with an AI chatbot. Treat it as a fantasy space. The platform also has strict community guidelines against illegal content, ensuring the ecosystem remains a safe space for consenting adults.
+
+## Frequently Asked Questions (FAQs)
+
+### Does [Spicychat.ai](https://spicychat.ai?ref=otexzjk) have a mobile app?
+While [Spicychat.ai](https://spicychat.ai?ref=otexzjk) had native apps in the past, app store policies regarding NSFW content often cause removals. However, the website is highly optimized for mobile browsers. You can easily add it to your phone's home screen as a PWA (Progressive Web App) for an app-like experience.
+
+### Can [Spicychat.ai](https://spicychat.ai?ref=otexzjk) see my chats?
+Your individual, private chats are kept between you and the AI. If you create a "Public" bot, others can interact with that bot, but they cannot read your specific chat logs with it. 
+
+### Are the premium tiers worth it?
+If you only use the site occasionally, the free tier is perfectly fine. But if you are annoyed by waiting in line, or if you want the bot to actually remember long storylines without getting confused, the $14.95/mo "True Supporter" tier is widely considered the sweet spot for the best value.
+
+## Final Verdict
+
+If you are exhausted by constant censorship and want a platform that respects your creative freedom, [Spicychat.ai](https://spicychat.ai?ref=otexzjk) is easily one of the best AI chatbots available today. With a vibrant community, incredible customization, and a pricing structure that caters to everyone from casual users to hardcore roleplayers, it delivers exactly what it promises.
+
+Ready to dive in and start your first unfiltered adventure? 
+👉 **Try [Spicychat.ai](https://spicychat.ai?ref=otexzjk) today and experience true AI freedom!**
